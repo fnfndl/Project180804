@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533342866258.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4DD68B3F",
+    "lastKnownWriteTime" : 1533344708,
+    "last_content_update" : 1533344708382,
+    "path" : "C:/R/Project180804/Project180804/텍스트마이닝.R",
+    "project_path" : "텍스트마이닝.R",
+    "properties" : {
+        "cursorPosition" : "29,17",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

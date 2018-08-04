@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533344712700.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "88204E5F",
+    "lastKnownWriteTime" : 1533344761,
+    "last_content_update" : 1533345378704,
+    "path" : "C:/R/Project180804/Project180804/차트.R",
+    "project_path" : "차트.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

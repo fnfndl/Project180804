@@ -1,0 +1,64 @@
+library(rJava)
+library(DBI)
+library(RJDBC)
+library(XML)
+library(memoise)
+library(KoNLP)
+library(wordcloud)
+library(dplyr)
+library(ggplot2)
+library(ggmap)
+library(rvest)
+library(RColorBrewer)
+library(data.table)
+library(reshape)
+
+vDemo <- c(1:5)
+plot(vDemo) ## 기본형태 (x와 y의 데이터가 같음_e.g. x가1일때 y도 1)
+##plot(x축 데이터와 y축 데이터)
+plot(1:3,3:1)
+
+##lim: 축의 최대 한계값을 의미
+plot(1:3,3:1,xlim=c(1,10),ylim=c(1,5))
+#lab: 라벨을 붙히는 것
+#main: 중앙 제모
+plot(
+  1:3,
+  3:1,
+  xlim=c(1,10),
+  ylim=c(1,5),
+  xlab='x축값',
+  ylab='y축값',
+  main='plot 값 테스트'
+)
+
+plot.new() #기존 차트 지우기
+dev.new() #새창에서 띄우기
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
